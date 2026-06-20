@@ -1,7 +1,7 @@
 # Test
 this is a test repo
 
-##new features : 
+## new features : 
 [x] feature 1 
 [ ] feature 2
 [ ] feature 3
